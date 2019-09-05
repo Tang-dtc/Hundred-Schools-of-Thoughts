@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
-
 import re
 import thulac
 from wordcloud import WordCloud
@@ -84,11 +81,3 @@ if __name__ == '__main__':
     #select_word(all_list)
     print(all_list)
     print(word_i_list)
-    print(word_vb_List)
-
-
-# In[ ]:
-
-
-
-
