@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 import re
 import thulac
 from wordcloud import WordCloud
@@ -94,10 +91,3 @@ if __name__ == '__main__':
     print(zheyeList)
     print(all_list)
     print(word_i_list)
-
-
-# In[ ]:
-
-
-
-
